@@ -38,6 +38,7 @@ a:visited {
     color: black;
 } */
 
+/* Class selectors */
 .container {
     width: 80%;
     margin: auto;
@@ -98,6 +99,7 @@ a:visited {
     word-spacing: 1em;
 }
 
+/* Border Styling */
 .box-2 {
     border: 3px dotted #ccc;
     padding: 20px;
@@ -144,6 +146,8 @@ a:visited {
     width: 100%;
 }
 
+/* Demonstrating Float properties */
+
 .block {
     float: left;
     width: 33.3%;
@@ -152,6 +156,7 @@ a:visited {
     box-sizing: border-box;
 }
 
+/* ID Selectors */
 #main-block {
     float: left;
     width: 70%;
@@ -167,6 +172,8 @@ a:visited {
     padding: 15px;
     box-sizing: border-box;
 }
+
+/* End ID Selectors */
 
 .p-box {
     width: 800px;
